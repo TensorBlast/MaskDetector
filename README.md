@@ -1,6 +1,9 @@
 # MaskDetector
 Detects human faces with/without masks in a static image
 
+## Run App
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ankit255/MaskDetector/HEAD?urlpath=%2Fvoila%2Frender%2FMaskDetector.ipynb)
+
 ## Dataset
 This dataset consists of 4095 images belonging to two classes:
 
