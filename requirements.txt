@@ -1,5 +1,5 @@
 fastai==2.7.9
-ipywidgets==8.0.2
+ipywidgets==7.7.2
 opencv_python==4.6.0.66
 timm==0.6.11
 voila
