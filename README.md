@@ -5,6 +5,7 @@ Detects human faces with/without masks in a static image
 This dataset consists of 4095 images belonging to two classes:
 
 with_mask: 2165 images
+
 without_mask: 1930 images
 
 ## Model
