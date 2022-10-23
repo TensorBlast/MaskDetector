@@ -12,5 +12,5 @@ with_mask: 2165 images
 without_mask: 1930 images
 
 ## Model
-The model is based on Inception V3 pretrained on ImageNet dataset and finetuned on the dataset. 
-OpenCV pre-trained Haar-cascade Detection classifier is used to extract faces as regions of interest(ROI) to feed into the trained Inception V3 model.
+The model is based on the state of the art XCIT (Cross-Covariance Image Transformer) relying on transformers and self-attention mechanism rather than convolutions which is pretrained on ImageNet dataset and finetuned on the dataset. 
+OpenCV pre-trained resnet10 based Caffe model is used to extract faces as regions of interest(ROI) to feed into the trained Inception V3 model.
